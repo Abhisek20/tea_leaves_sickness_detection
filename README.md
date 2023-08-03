@@ -6,7 +6,7 @@ In our problem statement, we intend to solve tea leaves sickness detection where
 
 Dataset link: https://data.mendeley.com/datasets/j32xdt2ff5
 
-Generated images: 
+Generated images 
 
 
 
